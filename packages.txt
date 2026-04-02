@@ -1,0 +1,2 @@
+# Playwright/Chromium artık gerekli değil
+# Bu dosya boş bırakılabilir
